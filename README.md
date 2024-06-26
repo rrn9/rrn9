@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrn9&label=Profile%20views&color=0e75b6&style=flat" alt="rrn9" /> </p>
 
-- 🔭 I’m currently working on **UniMarketPlace**
-
-- 🌱 I’m currently learning **Redux**
-
 - 📫 How to reach me via E-mail **rohitnair099@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
