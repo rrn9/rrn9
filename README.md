@@ -14,3 +14,8 @@
 <p align="left">
  Reach out to me: rohitnair099@gmail.com
 </p>
+
+<br/>
+
+#Skills
+<h3>Skills</h3>
