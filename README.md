@@ -13,9 +13,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
  </a> </p>
 
-<p>
- <img align="right" width="350" src="/coder_gif.gif" alt="Coding gif" />
-
-  Reach out on: rohitnair099@gmail.com 
+<p align="left">
+ Reach out to me: rohitnair099@gmail.com
 </p>
-
