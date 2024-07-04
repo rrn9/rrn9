@@ -4,7 +4,7 @@
 
 <!-- Intro  -->
 <h3 align="left"><samp> Hey There!, I am <b>Rohit Nair</b> </samp></h3>
-<p align="left"> <br>「 I am a self taught full stack developer from <b>India</b> 」<br> </p>
+<p align="left">「 I am a self taught full stack developer from <b>India</b> 」<br> </p>
 <!-- Linkedin -->
 <p align="left">
 <a href="https://www.linkedin.com/in/rohitrnair9" target="_blank">
