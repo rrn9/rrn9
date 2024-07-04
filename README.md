@@ -11,4 +11,7 @@
 
 <p>
  <img align="right" width="350" src="/coder_gif.gif" alt="Coding gif" />
+
+  Reach out on: rohitnair099@gmail.com 
 </p>
+
