@@ -1,6 +1,3 @@
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b>Rohit Nair</b>
-        </samp>
-</h3>
+<h3 align="center"><samp> Hey There!, I am <b>Rohit Nair</b> </samp></h3>
+
