@@ -12,7 +12,7 @@
  </a> </p>
 
 <p align="left">
- Reach out to me: rohitnair099@gmail.com
+ Reach out: rohitnair099@outlook.com
 </p>
 
 <br/>
